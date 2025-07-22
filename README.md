@@ -6,7 +6,7 @@ Build & Deploy NeuraLink AI Agent Blockchain DApp | Next.js, OpenAI, Gemini, Sol
 
 #### Project Source Code
 
-- [Final Source Code]()
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/build-and-deploy-neuralink-ai-agent-blockchain-dapp-or-next.js-openai-gemini-solidity-full-ai-agent)
 
 #### Setup Video
 
